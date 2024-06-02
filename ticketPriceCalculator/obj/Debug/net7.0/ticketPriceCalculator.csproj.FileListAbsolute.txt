@@ -1,0 +1,15 @@
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/bin/Debug/net7.0/ticketPriceCalculator
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/bin/Debug/net7.0/ticketPriceCalculator.deps.json
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/bin/Debug/net7.0/ticketPriceCalculator.runtimeconfig.json
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/bin/Debug/net7.0/ticketPriceCalculator.dll
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/bin/Debug/net7.0/ticketPriceCalculator.pdb
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ticketPriceCalculator.csproj.AssemblyReference.cache
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ticketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ticketPriceCalculator.AssemblyInfoInputs.cache
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ticketPriceCalculator.AssemblyInfo.cs
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ticketPriceCalculator.csproj.CoreCompileInputs.cache
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ticketPriceCalculator.dll
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/refint/ticketPriceCalculator.dll
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ticketPriceCalculator.pdb
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ticketPriceCalculator.genruntimeconfig.cache
+/Users/tipagyaiddrissaeed/Desktop/2nd sem/ass 1/dcit318-assignment1-10970376/ticketPriceCalculator/obj/Debug/net7.0/ref/ticketPriceCalculator.dll
